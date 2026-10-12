@@ -1,8 +1,8 @@
 # AgentFlow (MULTI-AI-AGENT-RESEARCH-SYSTEM)
 
-ResearchMind — Multi-Agent Research System
+AgentFlow — Multi-Agent Research System
 
-ResearchMind is an AI-powered research assistant that coordinates multiple specialized agents to turn a topic into a structured research report. It searches the web, reads a relevant source, writes a report, and asks a critic agent to review the result.
+AgentFlow is an AI-powered research assistant that coordinates multiple specialized agents to turn a topic into a structured research report. It searches the web, reads a relevant source, writes a report, and asks a critic agent to review the result.
 
 The project includes a Streamlit web interface as well as a command-line pipeline.
 
